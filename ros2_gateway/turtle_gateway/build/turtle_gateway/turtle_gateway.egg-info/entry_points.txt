@@ -1,0 +1,2 @@
+[console_scripts]
+turtle_listener = turtle_gateway.turtle_listener:main

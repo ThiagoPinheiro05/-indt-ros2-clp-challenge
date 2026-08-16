@@ -1,0 +1,35 @@
+running egg_info
+creating build/turtle_gateway/turtle_gateway.egg-info
+writing build/turtle_gateway/turtle_gateway.egg-info/PKG-INFO
+writing dependency_links to build/turtle_gateway/turtle_gateway.egg-info/dependency_links.txt
+writing entry points to build/turtle_gateway/turtle_gateway.egg-info/entry_points.txt
+writing requirements to build/turtle_gateway/turtle_gateway.egg-info/requires.txt
+writing top-level names to build/turtle_gateway/turtle_gateway.egg-info/top_level.txt
+writing manifest file 'build/turtle_gateway/turtle_gateway.egg-info/SOURCES.txt'
+reading manifest file 'build/turtle_gateway/turtle_gateway.egg-info/SOURCES.txt'
+writing manifest file 'build/turtle_gateway/turtle_gateway.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/ros2_ws/src/turtle_gateway/build/turtle_gateway/build
+creating /home/ubuntu/ros2_ws/src/turtle_gateway/build/turtle_gateway/build/lib
+creating /home/ubuntu/ros2_ws/src/turtle_gateway/build/turtle_gateway/build/lib/turtle_gateway
+copying turtle_gateway/__init__.py -> /home/ubuntu/ros2_ws/src/turtle_gateway/build/turtle_gateway/build/lib/turtle_gateway
+copying turtle_gateway/turtle_listener.py -> /home/ubuntu/ros2_ws/src/turtle_gateway/build/turtle_gateway/build/lib/turtle_gateway
+running install
+running install_lib
+creating /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/lib/python3.12/site-packages/turtle_gateway
+copying /home/ubuntu/ros2_ws/src/turtle_gateway/build/turtle_gateway/build/lib/turtle_gateway/__init__.py -> /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/lib/python3.12/site-packages/turtle_gateway
+copying /home/ubuntu/ros2_ws/src/turtle_gateway/build/turtle_gateway/build/lib/turtle_gateway/turtle_listener.py -> /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/lib/python3.12/site-packages/turtle_gateway
+byte-compiling /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/lib/python3.12/site-packages/turtle_gateway/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/lib/python3.12/site-packages/turtle_gateway/turtle_listener.py to turtle_listener.cpython-312.pyc
+running install_data
+creating /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/share/ament_index
+creating /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/share/ament_index/resource_index
+creating /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/share/ament_index/resource_index/packages
+copying resource/turtle_gateway -> /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/share/turtle_gateway
+running install_egg_info
+Copying build/turtle_gateway/turtle_gateway.egg-info to /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/lib/python3.12/site-packages/turtle_gateway-0.0.0-py3.12.egg-info
+running install_scripts
+Installing turtle_listener script to /home/ubuntu/ros2_ws/src/turtle_gateway/install/turtle_gateway/lib/turtle_gateway
+writing list of installed files to '/home/ubuntu/ros2_ws/src/turtle_gateway/build/turtle_gateway/install.log'
